@@ -4,7 +4,8 @@ body
     background-color:#fafafa;
     align-items: center;
     justify-content: center;
-    padding: 65px;
+    padding-top: 65px;
+    padding-bottom: 0px;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -121,18 +122,19 @@ header .p3
     {
         font-size: 17px;
     }
-    header.p2 
+    header .p2 
     {
         font-size: 16px;
     }
     header .p3
     {
-        font-size: 9px;
+        font-size: 11px;
         width: 80%;
     }
     .parent {
       display: flex;
       flex-wrap: wrap;
+      margin-top: 25px;
     }
     .child1,.child22,.child222,.child3
     {
@@ -151,11 +153,11 @@ header .p3
     }
     .child1-main h3,.child22-main h3,.child222-main h3,.child3-main h3
     {
-       font-size: 35px; 
+       font-size:25px; 
     }
     .child1-main p ,.child22-main p,.child222-main p,.child3-main p
     {
-        font-size: 25px;
+        font-size: 15px;
     }
     
   }
