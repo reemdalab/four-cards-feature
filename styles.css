@@ -64,6 +64,7 @@ header .p3
     height: 225px;
     border-radius: 5px;
     display: grid;
+    background-color:#77ace4;
 }
 .child1-header
 {
