@@ -119,15 +119,15 @@ header .p3
 @media only screen and (max-width: 600px) {
     header .p1
     {
-        font-size: 20px;
+        font-size: 17px;
     }
     header.p2 
     {
-        font-size: 20px;
+        font-size: 16px;
     }
     header .p3
     {
-        font-size: 13px;
+        font-size: 9px;
         width: 80%;
     }
     .parent {
