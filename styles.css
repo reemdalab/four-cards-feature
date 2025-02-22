@@ -117,14 +117,18 @@ header .p3
     height: 1px;
 }
 @media only screen and (max-width: 600px) {
-    header .p1,header .p2 
+    header .p1
     {
         font-size: 25px;
     }
+    .header .p2 
+    {
+        font-size: 24px;
+    }
     header .p3
     {
-        font-size: 17px;
-        width: 70%;
+        font-size: 13px;
+        width: 80%;
     }
     .parent {
       display: flex;
