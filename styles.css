@@ -118,6 +118,10 @@ header .p3
     height: 1px;
 }
 @media only screen and (max-width: 600px) {
+    body
+    {
+        padding-top: 40px;
+    }
     header .p1
     {
         font-size: 17px;
